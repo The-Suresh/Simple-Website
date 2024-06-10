@@ -33,11 +33,11 @@ README.md: This file, which provides an overview of the project.
 HTML5
 CSS3
 #Setup Instructions
-Clone the repository:
+#Clone the repository:
 
 #bash
 #Copy code
-git clone https://github.com/The/explore-india.git
+git clone https://github.com/The-Suresh/Simple-Website
 Navigate to the project directory:
 
 #bash
